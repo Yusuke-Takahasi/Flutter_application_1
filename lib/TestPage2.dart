@@ -5,7 +5,7 @@ class TestPage2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Test2"),
+          title: Text("テスト2"),
         ),
         body: Center(
             child: Container(
